@@ -1,4 +1,4 @@
-#Kidnapped Vehical Localization using Particle filter
+# Kidnapped Vehical Localization using Particle filter
 
 [image1]: ./images/result.jpg "result"
 
